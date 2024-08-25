@@ -1,0 +1,1 @@
+r'C:\Users\bug\OneDrive\PROYECTOS\proyecto_fotos_a_pdf\FOTOS'
